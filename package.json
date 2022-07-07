@@ -24,7 +24,7 @@
     "faker": "^4.1.0",
     "fs": "0.0.1-security",
     "method-override": "^3.0.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "mongoose": "^5.8.9",
     "mongoose-url-slugs": "^1.0.2",
     "passport": "^0.4.1",
